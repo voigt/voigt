@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I no longer use GitHub to publish my own code.
+
+You can find my personal projects here: [tangled.org/voigt.tngl.sh](tangled.org/voigt.tngl.sh)
+
+I’ll continue using GitHub for collaboration on open source projects.
+
 <!--
 **voigt/voigt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
